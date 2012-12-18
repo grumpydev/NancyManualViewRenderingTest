@@ -7,7 +7,7 @@
     {
         private readonly IViewFactory factory;
 
-        public ViewRenderer(IViewLocationCache cache, IViewFactory factory)
+        public ViewRenderer(IViewFactory factory)
         {
             this.factory = factory;
         }
