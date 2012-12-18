@@ -69,6 +69,7 @@
     <Compile Include="IViewRenderer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="TestModule.cs" />
+    <Compile Include="ViewRenderer.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
